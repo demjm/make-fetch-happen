@@ -10,10 +10,11 @@ pooling, proxies, retries, [and more](#features)!
 
 `$ npm install --save make-fetch-happen`
 
-
+## Table of Contents
 
 - [make-fetch-happen](#make-fetch-happen)
   - [Install](#install)
+  - [Table of Contents](#table-of-contents)
     - [Example](#example)
     - [Features](#features)
     - [Contributing](#contributing)
